@@ -20,9 +20,7 @@ My work covers text labeling, classification, entity recognition, image annotati
 - Bounding box annotation
 - Image labeling
 
-**Audio and Video Annotation**
-- Audio transcription
-- Speech labeling
+**Video Annotation**
 - Video annotation
 - Object tracking
 
